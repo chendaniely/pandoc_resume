@@ -104,8 +104,8 @@ Teaching
 
 * Data Science for the Public Good
 
-    * Co-teach a 2.5 week long intensive [workshop][bi-sdal/workshop] on data science tools
-	    * *2017*: 19 Students; *2016*: 8 Students; *2015*: 4 Students
+    * Co-teach a 2.5 week long intensive [workshop][bi-sdal/training] on data science tools
+	    * *2018*: 18 Students *2017*: 19 Students; *2016*: 8 Students; *2015*: 4 Students
 	    * bash, SSH tunneling, git, project templates, data import/export, code repositories, R `data.table`,
 		  functions and `apply`, `knitr` and `rmarkdown` reports, grouped and aggregated statistics,
 		  loops, data tidying, regular expressions, plotting, command line scripts, detached processes,
@@ -115,36 +115,49 @@ Teaching
 
 * Software Carpentry / Data Carpentry
 
-    * Co-[maintainer][swc_r_lesson] of the R [Lesson][swc_lesson]
+    * Former Co-[maintainer][swc_r_lesson] of the R [Lesson][swc_lesson]
 	* 15+ Workshops taught around the country
 
 Teaching Materials
 ----------------------
 
+* [Pandas for Everyone][pandas_book] (2018): Book published though Pearson's Addison-Wesley Data & Analytics Series about the Python data analyics library, `pandas`
 * [Git Essentials][git_essentials]: Online video course through [Safari Books Online][safari] on the basics of git.
-* [Cleaning Data in Python][dc_data]: [DataCamp][datacamp] course on diagnosing and cleaning data in Python
-* [Pandas for Everyone][pandas_book] (Expected end of 2017): Book published though Pearson's Addison-Wesley Data & Analytics Series about the Python data analyics library, `pandas`
+* [Pandas Data Analysis with Python Fundamentals][pandas_video_1]: Online video course through Safari Books Online on the basic data transformations using the Pandas library in Python.
+* [Pandas Data Cleaning and Modeling with Python][pandas_video_2]: Online video course through Safari Books Online on the cleaning and modeling data in Pandas.
+* [Cleaning Data in Python][dc_data]: [DataCamp][datacamp] course on diagnosing and cleaning data in Python.
+* [Python for R Users][df_py_useRs]: DataCamp course on transitioning to Python from R.
 
 Publications
 --------------
 
 ORCID: [http://orcid.org/0000-0003-3857-1741][orcid]
 
-* Mass fatality preparedness among medical examiners/coroners in the United States: a cross-sectional study. 2014.
-  Robyn RM GershonEmail author, Mark G Orr, Qi Zhi, Jacqueline A Merrill, Daniel Y Chen, Halley EM Riley and Martin F Sherman.
-  BMC Public Health201414:1275.
-  DOI: 10.1186/1471-2458-14-1275
+* Demographics, perceptions, and socioeconomic factors affecting influenza vaccination among adults in the United States. 2018.
+  Kaja M. Abbas​, Gloria J. Kang, Daniel Chen, Stephen R. Werre, Achla Marathe
+  PeerJ.
+  DOI: https://doi.org/10.7717/peerj.5171
 
-* Are We Ready for Mass Fatality Incidents? Preparedness of the US Mass Fatality Infrastructure. 2015.
-  Jacqueline A. Merrill, Mark Orr), Daniel Y. Chen, Qi Zhi, and Robyn R. Gershon.
-  Disaster Medicine and Public Health Preparedness.
-  DOI: https://doi.org/10.1017/dmp.2015.135
+* Harnessing the power of data to support community-based research. 2018.
+  Sallie Keller, Stephanie Shipp, Gizem Korkmaz, Emily Molfino, Joshua Goldstein, Vicki Lancaster, Bianica Pires,  David Higdon,  Daniel Chen,  Aaron Schroeder.
+  WIREs Computational Statistics.
+  DOI: https://doi.org/10.1002/wics.1426
 
 * Systems Science and Population Health.
   Systems of Behavior and Population Health.
   Mark Orr, Kathryn Ziemer, Daniel Chen. 2017.
   Book Chapter.
   ISBN: 9780190492397
+
+* Are We Ready for Mass Fatality Incidents? Preparedness of the US Mass Fatality Infrastructure. 2015.
+  Jacqueline A. Merrill, Mark Orr), Daniel Y. Chen, Qi Zhi, and Robyn R. Gershon.
+  Disaster Medicine and Public Health Preparedness.
+  DOI: https://doi.org/10.1017/dmp.2015.135
+
+* Mass fatality preparedness among medical examiners/coroners in the United States: a cross-sectional study. 2014.
+  Robyn RM GershonEmail author, Mark G Orr, Qi Zhi, Jacqueline A Merrill, Daniel Y Chen, Halley EM Riley and Martin F Sherman.
+  BMC Public Health201414:1275.
+  DOI: 10.1186/1471-2458-14-1275
 
 * Software Carpentry: Programming with R. 2016.
   DOI: 10.5281/zenodo.57541.
@@ -177,12 +190,16 @@ ORCID: [http://orcid.org/0000-0003-3857-1741][orcid]
 [ebola_dashboard]: https://chendaniely.shinyapps.io/shinyCountryTimeseries/
 [stan]: http://mc-stan.org/
 [bi-sdal/workshop]: https://github.com/bi-sdal/workshop
+[bi-sdal/training]: https://bi-sdal.github.io/training/
 [swc_lesson]: https://software-carpentry.org/lessons/
 [swc_r_lesson]: http://swcarpentry.github.io/r-novice-inflammation/
 [git_essentials]: https://www.safaribooksonline.com/library/view/git-essentials-livelessons/9780134655284/
+[pandas_video_1]: https://www.safaribooksonline.com/videos/pandas-data-analysis/9780134692272
+[pandas_video_2]: https://www.safaribooksonline.com/videos/pandas-data-cleaning/9780135170199
 [safari]: https://www.safaribooksonline.com/
 [datacamp]: https://www.datacamp.com/
 [dc_data]: https://www.datacamp.com/courses/cleaning-data-in-python
+[dc_py_useRs]: https://www.datacamp.com/courses/python-for-r-users
 [pandas_book]: https://www.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics/dp/0134546938
 [bi-sdal/sdalr]: https://github.com/bi-sdal/sdalr
 [pylens]: https://github.com/chendaniely/pylens
