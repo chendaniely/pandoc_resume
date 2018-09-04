@@ -108,13 +108,13 @@ Programming Languages
 Funding
 -------
 
-* 2018-2019,
+* 2018,
 Virginia Early Childhood Foundation (VCEF, Baseline Distinct Counts of Select Data Sets to Support ECIDS Establishment,
 PI - Aaron Schroeder,
 $75,000,
 Data Engineer
 
-* 2018-2019,
+* 2017-2018,
 Mitre Corporation,
 Local Data Sources to Build a Comprehensive Community-Based Understanding of Complex National Health Problems,
 PI - David Higdon and Sallie Keller,
@@ -122,20 +122,26 @@ $93,938,
 Project to continue in 2019-2020,
 Data Engineer
 
-* 2018-2019,
-Army Research Institute (ARI),
-Towards an Integrated Data Framework for Understanding the Context of Military Environments - 1 Year Extension,
-PI - Sallie Keller,
-$286,826,
-Data Engineer
-
-* 2018-2019,
-Army Research Institute (ARI),
+* 2016-2022,
+U.S. Army Research Institute (ARI),
 Individual and Team Performance, The Social Component of The Human Dimension: Leveraging Existing DoD Data Towards Optimized Individual And Team Performance in the Army,
 PI - Sallie Keller,
 $3,027,401,
 Data Engineer
 
+* 2015-2018,
+U.S. Army Research Institute (ARI),
+The Social Component of The Human Dimension: Leveraging Existing DoD Data Towards Optimized Individual And Team Performance in the Army,
+PI - Sallie Keller
+$1.6 M
+Data Engineer
+
+* 2018-2019,
+U.S. Army Research Institute (ARI),
+Towards an Integrated Data Framework for Understanding the Context of Military Environments - 1 Year Extension,
+PI - Sallie Keller,
+$286,826,
+Data Engineer
 
 Teaching
 ---------
