@@ -181,52 +181,59 @@ ORCID: [http://orcid.org/0000-0003-3857-1741][orcid]
   Kaja M. Abbas​, Gloria J. Kang, Daniel Chen, Stephen R. Werre, Achla Marathe
   PeerJ.
 
-  DOI: https://doi.org/10.7717/peerj.5171
+  DOI: [https://doi.org/10.7717/peerj.5171](https://doi.org/10.7717/peerj.5171)
 
 * Harnessing the power of data to support community-based research. 2018.
   Sallie Keller, Stephanie Shipp, Gizem Korkmaz, Emily Molfino, Joshua Goldstein, Vicki Lancaster, Bianica Pires,  David Higdon,  Daniel Chen,  Aaron Schroeder.
   WIREs Computational Statistics.
 
-  DOI: https://doi.org/10.1002/wics.1426
+  DOI: [https://doi.org/10.1002/wics.1426](https://doi.org/10.1002/wics.1426)
+
+* Pandas for Everyone.
+  Addison-Wesley Professional.
+  Daniel Y. Chen. 2018.
+  Book.
+
+  ISBN: [978-0134546933](http://www.worldcat.org/isbn/9780134546933)
 
 * Systems Science and Population Health.
   Systems of Behavior and Population Health.
   Mark Orr, Kathryn Ziemer, Daniel Chen. 2017.
   Book Chapter.
 
-  ISBN: 9780190492397
+  ISBN: [9780190492397](http://www.worldcat.org/isbn/9780190492397)
 
 * Are We Ready for Mass Fatality Incidents? Preparedness of the US Mass Fatality Infrastructure. 2015.
   Jacqueline A. Merrill, Mark Orr), Daniel Y. Chen, Qi Zhi, and Robyn R. Gershon.
   Disaster Medicine and Public Health Preparedness.
 
-  DOI: https://doi.org/10.1017/dmp.2015.135
+  DOI: [https://doi.org/10.1017/dmp.2015.135](https://doi.org/10.1017/dmp.2015.135)
 
 * Mass fatality preparedness among medical examiners/coroners in the United States: a cross-sectional study. 2014.
   Robyn RM GershonEmail author, Mark G Orr, Qi Zhi, Jacqueline A Merrill, Daniel Y Chen, Halley EM Riley and Martin F Sherman.
-  BMC Public Health201414:1275.
+  BMC Public Health 201414:1275.
 
-  DOI: 10.1186/1471-2458-14-1275
+  DOI: [https://doi.org/10.1186/1471-2458-14-1275](https://doi.org/10.1186/1471-2458-14-1275)
 
 * Software Carpentry: Programming with R. 2016.
   DOI: 10.5281/zenodo.57541.
 
-  URL: https://doi.org/10.5281/zenodo.57541
+  URL: [https://doi.org/10.5281/zenodo.57541](https://doi.org/10.5281/zenodo.57541)
 
 * Software Carpentry: The Unix Shell. 2016.
   DOI: 10.5281/zenodo.57544.
 
-  URL: https://doi.org/10.5281/zenodo.57544
+  URL: [https://doi.org/10.5281/zenodo.57544](https://doi.org/10.5281/zenodo.57544)
 
 * Software Carpentry: Using Databases and SQL. 2016.
   DOI: 10.5281/zenodo.57551.
 
-  URL: https://doi.org/10.5281/zenodo.57551
+  URL: [https://doi.org/10.5281/zenodo.57551](https://doi.org/10.5281/zenodo.57551)
 
 * Software Carpentry: Version Control with Git. 2016.
   DOI: 10.5281/zenodo.57467.
 
-  URL: https://doi.org/10.5281/zenodo.57467
+  URL: [https://doi.org/10.5281/zenodo.57467](https://doi.org/10.5281/zenodo.57467)
 
 [orcid]: http://orcid.org/0000-0003-3857-1741
 [dspg]: https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program
