@@ -1,6 +1,8 @@
 Daniel Chen
 ============
 
+> <chend@vt.edu> • +1 (917) 880 9254 • [https://chendaniely.github.io](https://chendaniely.github.io)
+
 Education
 -----------
 
@@ -20,37 +22,43 @@ Education
       (New York City, NY)
 
      * Concentration: Behavioral Neuroscience
-	 * Minors: Biology, Computer Science
+     * Minors: Biology, Computer Science
 
 Experience
 ------------
 
-**Social and Decision Analytics Laboratory**
+**Social and Decision Analytics Lab** Biocomplexity Institute of Virginia Tech, 2017 - Present
 
-* Build and deploy the system that houses the lab's computational infrastructure and data using Docker
+* I work as part of SDAL teams to support the data engineering aspects of projects. I collaborate with data scientists to develop data-driven analyses and interactive visualizations; explore and experiment with new open source technologies, and develop frameworks to support and enhance existing frameworks and architecture landscapes. I participate in the technology stack selection, application, and maintenance that is consistent with institute mission, industry best practices, and industry standard security requirements.  
 
-* Co-instructor for the [Data Science for Public Good][dspg] Program
-
+* My specific responsibilities include the following activities
+  * Deploy and maintain platform technologies for the secure management, analyses, and presentation of project data, including the maintenance and back of the lab’s data storage platforms including PostgreSQL databases, the lab’s analytics platforms including RStudio Server and Juptyer Server and the lab’s presentation platforms including wikis, dashboards, and RStudio Shiny
+  * Help establish and implement data ingestion, storage, and analyses pipelines. 
+  * Assist lab researchers  in developing computational models for analysis and approaches to best visualize project data
+  * Assist in the application of methods to quantify accuracy and completeness of collected data
+  * Write well-documented code to perform various analytic tasks
+  * Assist in the development of data dictionaries and production of comprehensive summary reports and presentations suitable for internal customers and project sponsors
+  * Develop clear, concise, in-depth documentation of code to facilitate ongoing maintenance and future adaptation of system components
+  * Co-instructor for the [Data Science for Public Good][dspg] Program
     * Main point of contact for code and technical issues
+  * Ensure the lab's workflow follow best research practices for data security, reproducibility, and replicability
 
-* Ensure the lab's workflow follow best research practices for data security, reproducibility, and replicability
-
-**Lander Analytics**
+**Lander Analytics** 2014 - Present
 
 * Teach Machine Learning and Dashboards R
 * Teach Data Analysis and Programming in Python
 
-**Columbia University School of Nursing**
+**Columbia University School of Nursing** 2014 - 2014
 
 * Analyzed survey data on mass causality preparedness that lead to 2 published papers
 
 * Prepared hospital data to measure care pathways using a network approach
 
-**Center for Injury Epidemiology and Prevention at Columbia University**
+**Center for Injury Epidemiology and Prevention at Columbia University** 2013 - 2014
 
 * Worked on an agent-based model written in Java looking at alcohol and violence in NYC
 
-**NYU Langone Medical Center**
+**NYU Langone Medical Center** 2010 - 2012
 
 * Data manager and clinical trials coordinator
 
@@ -97,7 +105,37 @@ Programming Languages
 :   Basic knowledge of **SQL**, **C++**, **Java**, **HTML/CSS**
 :   System administration: **Bash**, **Docker**,  **VirtualBox**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Funding
+-------
+
+* 2018-2019,
+Virginia Early Childhood Foundation (VCEF, Baseline Distinct Counts of Select Data Sets to Support ECIDS Establishment,
+PI - Aaron Schroeder,
+$75,000,
+Data Engineer
+
+* 2018-2019,
+Mitre Corporation,
+Local Data Sources to Build a Comprehensive Community-Based Understanding of Complex National Health Problems,
+PI - David Higdon and Sallie Keller,
+$93,938,
+Project to continue in 2019-2020,
+Data Engineer
+
+* 2018-2019,
+Army Research Institute (ARI),
+Towards an Integrated Data Framework for Understanding the Context of Military Environments - 1 Year Extension,
+PI - Sallie Keller,
+$286,826,
+Data Engineer
+
+* 2018-2019,
+Army Research Institute (ARI),
+Individual and Team Performance, The Social Component of The Human Dimension: Leveraging Existing DoD Data Towards Optimized Individual And Team Performance in the Army,
+PI - Sallie Keller,
+$3,027,401,
+Data Engineer
+
 
 Teaching
 ---------
@@ -113,8 +151,7 @@ Teaching
     * Guide research of undergraduate students and graduate fellows
 		* technical and code support, data pipeline algorithms
 
-* Software Carpentry / Data Carpentry
-
+* [The Carpentries][carpentries] (Formely: [Software Carpentry][swc] and [Data Carpentry][dc]) (2012 - Present)
     * Former Co-[maintainer][swc_r_lesson] of the R [Lesson][swc_lesson]
 	* 15+ Workshops taught around the country
 
@@ -122,11 +159,12 @@ Teaching Materials
 ----------------------
 
 * [Pandas for Everyone][pandas_book] (2018): Book published though Pearson's Addison-Wesley Data & Analytics Series about the Python data analyics library, `pandas`
+* [SDAL Training Manual][bi-sdal/training]: Draft of training manual used for the lab and the DSPG program
 * [Git Essentials][git_essentials]: Online video course through [Safari Books Online][safari] on the basics of git.
 * [Pandas Data Analysis with Python Fundamentals][pandas_video_1]: Online video course through Safari Books Online on the basic data transformations using the Pandas library in Python.
 * [Pandas Data Cleaning and Modeling with Python][pandas_video_2]: Online video course through Safari Books Online on the cleaning and modeling data in Pandas.
 * [Cleaning Data in Python][dc_data]: [DataCamp][datacamp] course on diagnosing and cleaning data in Python.
-* [Python for R Users][df_py_useRs]: DataCamp course on transitioning to Python from R.
+* [Python for R Users][dc_py_useRs]: DataCamp course on transitioning to Python from R.
 
 Publications
 --------------
@@ -136,49 +174,53 @@ ORCID: [http://orcid.org/0000-0003-3857-1741][orcid]
 * Demographics, perceptions, and socioeconomic factors affecting influenza vaccination among adults in the United States. 2018.
   Kaja M. Abbas​, Gloria J. Kang, Daniel Chen, Stephen R. Werre, Achla Marathe
   PeerJ.
+
   DOI: https://doi.org/10.7717/peerj.5171
 
 * Harnessing the power of data to support community-based research. 2018.
   Sallie Keller, Stephanie Shipp, Gizem Korkmaz, Emily Molfino, Joshua Goldstein, Vicki Lancaster, Bianica Pires,  David Higdon,  Daniel Chen,  Aaron Schroeder.
   WIREs Computational Statistics.
+
   DOI: https://doi.org/10.1002/wics.1426
 
 * Systems Science and Population Health.
   Systems of Behavior and Population Health.
   Mark Orr, Kathryn Ziemer, Daniel Chen. 2017.
   Book Chapter.
+
   ISBN: 9780190492397
 
 * Are We Ready for Mass Fatality Incidents? Preparedness of the US Mass Fatality Infrastructure. 2015.
   Jacqueline A. Merrill, Mark Orr), Daniel Y. Chen, Qi Zhi, and Robyn R. Gershon.
   Disaster Medicine and Public Health Preparedness.
+
   DOI: https://doi.org/10.1017/dmp.2015.135
 
 * Mass fatality preparedness among medical examiners/coroners in the United States: a cross-sectional study. 2014.
   Robyn RM GershonEmail author, Mark G Orr, Qi Zhi, Jacqueline A Merrill, Daniel Y Chen, Halley EM Riley and Martin F Sherman.
   BMC Public Health201414:1275.
+
   DOI: 10.1186/1471-2458-14-1275
 
 * Software Carpentry: Programming with R. 2016.
   DOI: 10.5281/zenodo.57541.
+
   URL: https://doi.org/10.5281/zenodo.57541
 
 * Software Carpentry: The Unix Shell. 2016.
   DOI: 10.5281/zenodo.57544.
+
   URL: https://doi.org/10.5281/zenodo.57544
 
 * Software Carpentry: Using Databases and SQL. 2016.
   DOI: 10.5281/zenodo.57551.
+
   URL: https://doi.org/10.5281/zenodo.57551
 
 * Software Carpentry: Version Control with Git. 2016.
   DOI: 10.5281/zenodo.57467.
+
   URL: https://doi.org/10.5281/zenodo.57467
-
-
-----
-
-> <chend@vt.edu> • +1 (917) 880 9254 • https://chendaniely.github.io
 
 [orcid]: http://orcid.org/0000-0003-3857-1741
 [dspg]: https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program
@@ -207,3 +249,6 @@ ORCID: [http://orcid.org/0000-0003-3857-1741][orcid]
 [knitr_example]: https://github.com/chendaniely/knitr-child-document-example
 [comp_cookie]: https://github.com/chendaniely/computational-project-cookie-cutter
 [pweave_example]: https://github.com/chendaniely/pweave-child-document-example
+[carpentries]: https://carpentries.org/
+[swc]: https://software-carpentry.org/
+[dc]: https://datacarpentry.org/
