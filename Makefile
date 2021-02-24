@@ -21,7 +21,8 @@ resume.docx: resume.md
 
 rtf: resume.rtf
 resume.rtf: resume.md
-	pandoc -s -S resume.md -o resume.rtf
+	#pandoc -s -S resume.md -o resume.rtf
+	pandoc -f markdown+smart -t markdown-smart resume.md -o resume.rtf
 
 clean:
 	rm -f resume.html
